@@ -1,0 +1,50 @@
+body{
+    padding: 5em 15em;
+    background-color: blanchedalmond;
+}
+.navbar{
+    display: flex;
+    column-gap: 23em;
+    font-weight: bolder;
+    font-size: larger;
+}
+.navlink a{
+    text-decoration: none;
+}
+.homeimage{
+    position: relative;
+    
+    
+}
+.homecontent{
+    position: absolute;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: red;
+    bottom: 15em;
+    left: 2em;
+}
+.homecontent2{
+    position: absolute;
+    bottom: 20em;
+    font-size: large;
+    font-style: italic;
+}
+.button1{
+    position: absolute;
+    bottom: 20em;
+}
+.lastcontent{
+    display: flex;
+    column-gap: 13em;
+    list-style: none;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+.terms{
+    display: flex;
+    padding: 20px;
+    column-gap: 28em;
+    font-weight: bold;
+}
